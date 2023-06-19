@@ -11,8 +11,8 @@ e consultar neles o valor de um produto em específico (abacate). Após a coleta
 
 ## Como utilizar:
 
-1. Baixe e execute o arquivo
-2. Após executar o arquivo, ele realizará a varredura nos sites descritos e irá criar um arquivo .csv com os dados coletados
+1. Baixe e execute o programa
+2. Após executar o programa, ele realizará a varredura nos sites descritos e irá criar um arquivo .csv com os dados coletados
 3. Com o arquivo .csv já baixado, abra o excel, vá em novo arquivo
 4. Com o arquivo em branco aberto, selecione a aba dados, e na opção "obter dados externos" selecione "de texto" 
 ![Captura de Tela (99)](https://github.com/Lucas-Lobao/Projeto-SeleniumVarredorDePrecos/assets/107892354/c1930de0-f81f-4280-bed0-d334e17e79fb)
